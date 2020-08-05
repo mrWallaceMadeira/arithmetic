@@ -51,7 +51,7 @@ Then watch [this](https://youtube.com)
 ### Takeaways & extra `bits`
    - [x] Always match your variable types _or_ explicitly cast variable types
    - [x] `final` allows you to create an 'un-changeable' number à la `final myPermanInt = 100;`
-    - `myPermanInt` now cannot have a value other than 100 & attempting to change will cause an error
+      - `myPermanInt` now cannot have a value other than 100 & attempting to change will cause an error
     
 ### C'est fini
 Exit ticket [here]()
