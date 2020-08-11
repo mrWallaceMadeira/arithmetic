@@ -9,7 +9,7 @@ We'll cover new variable types that can help us with challenging problems like 1
     - It is more precise than an integer (i.e. 3.14159...)
   - [x] `int` & `double` allow us to perform math operations
 
-### &nbsp;:hand: Recall
+### &nbsp;:thought_balloon: Recall
 In order to use variables in Java we must do two things
   1. declare
   2. initialize
