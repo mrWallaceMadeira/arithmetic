@@ -46,7 +46,7 @@ Java supports these basic operations &nbsp; :arrow_down:
 
 ### &nbsp;:hand: Stop!
 I urge you to open IntelliJ and try to run these lines of code.\
-Then watch [this](https://youtube.com)
+Then watch [this](https://themadeiraschool.sharepoint.com/sites/IntrotoCS/Shared%20Documents/General/Videos/lesson6Video1.mov)
 
 ### Takeaways & extra `bits`
    - [x] Always match your variable types _or_ explicitly cast variable types
@@ -54,7 +54,7 @@ Then watch [this](https://youtube.com)
       - `myPermanInt` now cannot have a value other than 100 & attempting to change will cause an error
     
 ### C'est fini
-Exit ticket [here]()
+Entry ticket [here](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUMlJMWERZMUhNTTBXWDlaVkFYNDdDMDJNRSQlQCN0PWcu)
    
  
  
