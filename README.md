@@ -44,7 +44,7 @@ Java supports these basic operations &nbsp; :arrow_down:
   
 ```
 
-### &nbsp;:hand: Fernsehzeit!
+### &nbsp;:tv: Fernsehzeit!
 Watch [this](https://themadeiraschool.sharepoint.com/sites/IntrotoCS/Shared%20Documents/General/Videos/lesson6Video1.mov)
 
 ### Takeaways & extra `bits`
