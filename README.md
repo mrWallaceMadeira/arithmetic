@@ -1,4 +1,4 @@
-# Lesson 6: Quick maths
+# Lesson 3: Quick maths
 Last lesson we introduced a new variable type `Scanner`\
 We'll cover new variable types that can help us with challenging problems like 1 + 1 + 3
 
